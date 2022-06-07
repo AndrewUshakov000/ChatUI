@@ -1,2 +1,2 @@
 # ChatUI
-Studying how to create chat apps.
+Studying how to create chat apps with a great UI design.
