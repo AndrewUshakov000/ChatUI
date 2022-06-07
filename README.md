@@ -1,2 +1,2 @@
 # ChatUI
-This project is my attempt to create a chat UI
+Studying how to create chat apps.
